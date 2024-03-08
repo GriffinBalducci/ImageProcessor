@@ -1,0 +1,6 @@
+# ninja log v5
+0	507	7315805671080989	CMakeFiles/ImageProcessor.dir/main.cpp.obj	7e147c8c93859b2c
+1	117	7315808247290319	build.ninja	e67fe22ba54bf795
+5	185	7315808279079791	CMakeFiles/ImageProcessor.dir/Image.cpp.obj	6af09d9dbac39f7f
+0	501	7315808282224655	CMakeFiles/ImageProcessor.dir/main.cpp.obj	7e147c8c93859b2c
+502	588	7315808283076096	ImageProcessor.exe	85860e4d2e9bdd45
